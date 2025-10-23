@@ -1,0 +1,17 @@
+Yêu cầu của đề thi:
+Sản phẩm: Sản xuất một podcast dạng đối thoại (tối đa 04-05 phút), lấy bối cảnh trò chuyện tâm sự , tư vấn giữa một người cao tuổi và 1 chuyên gia tư vấn (về các lĩnh vực của người cao tuổi).
+Chủ đề trung tâm: có thể lựa chọn các vấn đề người cao tuổi phải đối mặt như sức khoẻ thể chất, sức khoẻ tinh thần, các vấn đề xã hội, các vấn đề tâm lý cảm xúc, mối quan hệ giữa các thế hệ trong gia đình v.v.
+Đội thi tự sáng tạo câu chuyện, xây dựng hai nhân vật điển hình (có tên, tuổi, độ tuổi, cá tính…) – một chuyên gia tư vấn trong lĩnh vực người cao tuổi và 1 người cao tuổi.
+
+Kịch bản: Podcast phải có kịch bản gốc tự biên (không copy), lời thoại tự nhiên, phản ánh cảm xúc và giải pháp cụ thể.
+100% voice được tạo bằng AI;
+Có nhạc nền nhẹ phù hợp podcast.
+Đầu ra: file mp3/mp4
+Sản phẩm là hoàn toàn sáng tạo mới với AI thông qua AI API được cung cấp, đáp ứng đủ yêu cầu của đề, phù hợp quy định pháp lý và giáo dục, không cover hay sáng tác từ một sản phẩm có sẵn
+Ngôn ngữ: tiếng Việt
+
+Bối cảnh:
+Podcast xuất sắc sẽ lan tỏa trên hệ thống của hội Người cao tuổi Việt Nam, các viện dưỡng lão, các cộng đồng người cao tuổi trên cả nước.
+ Góp phần nâng cao trách nhiệm xã hội đối với người cao tuổi theo ý kiến chỉ đạo của Đảng và nhà nước trong lĩnh vực chăm sóc sức khoẻ nhân dân
+Nội dung:
+Cả nước hiện có khoảng 16,1 triệu người cao tuổi, chiếm trên 16% dân số. Việt Nam là một trong những nước có tốc độ già hóa dân số nhanh nhất châu Á, thời gian chuyển từ giai đoạn già hóa dân số sang dân số già chỉ từ 17-20 năm, ngắn hơn so với nhiều nước khác… Chúng ta sẽ bước vào thời kỳ dân số già từ năm 2036, khi đó tỉ trọng nhóm người già từ 65 tuổi trở lên đạt 14,2% tổng dân số. Dự báo số người cao tuổi sẽ lên 25,2 triệu vào năm 2069.
